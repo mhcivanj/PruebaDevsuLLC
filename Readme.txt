@@ -1,4 +1,6 @@
 EL E2E que escogi para desarrolar fue el caso 2
+Para el desarrollo del proyecto Untilize Selenium WedDriver con C#.
+EL Patron de Diseño que utilice es SreenPlay(https://dev.to/enriquedcs/patron-de-pruebas-automatizadas-screenplay-2d8e)
 
 
 

@@ -29,7 +29,7 @@ namespace AUTOMATION_E2E.Tests
 
                 LoginTask.LoginSession(driver, User, Pass);
 
-                //Agrgar Producto al carrito
+                //Agregar Producto al carrito
                 AddCar_Task.AddCar(driver);
 
 
