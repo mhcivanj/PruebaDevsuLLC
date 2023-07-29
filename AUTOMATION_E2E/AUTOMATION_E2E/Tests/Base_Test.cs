@@ -22,10 +22,10 @@ namespace AUTOMATION_E2E.Tests
             driver.Manage().Window.Size = new System.Drawing.Size(1552, 832);
 
         }
-       /* [TearDown]
+        [TearDown]
         protected void TearDown()
         {
             driver.Quit();
-        }*/
+        }
     }
 }
