@@ -1,0 +1,5 @@
+1.Es una pagina muy basica la cual se encuentra desarrollada no de la mejor forma 
+ya que hay elementos que no cuentan con su Identificador ID, y esto con lleva a utilizar identificadores distintos 
+y que en un futura el dale mantenimiento al sitio puede ocacionar que estos elementos cambien 
+y lo que conlleva a un retrabajo de la prueba, caso distinto seria si la pagina tubiera bien 
+identificados lso elementos con la propiedad ID.
